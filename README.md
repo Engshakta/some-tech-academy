@@ -17,4 +17,4 @@ A modern and responsive educational platform offering courses in Fullstack Devel
 ## 🚀 Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/some-tech-academy.git
+   git clone https://github.com/Engshakta/some-tech-academy.git
